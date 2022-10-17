@@ -1,14 +1,13 @@
 # \-\--
-title: "Overview"
-editor: visual
-\-\--
-Overview
+
+title: "Overview" editor: visual \-\-- Overview
 
 In this project, we are given two major themes and sub-theme. Detail description of this project is available on this page.
 
 Land cover classification is a commonly application are of digital image analysis.
 
 ## 
+
 Tasks
 
 The project tasks are as follows:
