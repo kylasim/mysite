@@ -5,7 +5,7 @@ website:
   title: "mysite"
   navbar:
     left:
-      - href: overview.qmd
+      - href: Overview.html
         text: Overview
       - href: methodology.qmd
         text: Methodology
