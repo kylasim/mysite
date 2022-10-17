@@ -13,6 +13,8 @@ Tasks
 
 The project tasks are as follows:
 
--   objective 1
+-   To compile the necessary data
 
 -   objective 2
+
+-   objective 3
